@@ -4,7 +4,7 @@ This repository is my personal lab for mastering python and computer science fun
 
 ---
 
-## Featured: Binary Search ("The mmoving organism")
+## Featured: Binary Search ("The moving organism")
 A high _ efficiency search algorithm that halves the search with every repeat of the loop like a heartbeat.
 
 ### The logic map 
