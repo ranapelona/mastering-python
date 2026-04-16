@@ -13,7 +13,7 @@ that close in on the target.
 
 ![Binary Search Logic Map](./assets/binary_search_logic_map.jpg
 
-### What i learned
+### 📝 What i learned
 
 ***Midpoint Exclusion*** I used "low = mid +1" and "high = mid -1" to make sure that the boundaries close in on the search space.
 ***Termination*** This precision prevents the algorithm from getting paralyzed in an infinite loop once it identifies the target coordinates.
