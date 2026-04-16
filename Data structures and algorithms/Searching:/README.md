@@ -7,7 +7,7 @@ This repository is my personal lab for mastering python and computer science fun
 ## Featured: Binary Search ("The moving organism")
 A high _ efficiency search algorithm that halves the search with every repeat of the loop like a heartbeat.
 
-### The logic map 
+### 🧠 The logic map 
 Before coding i mapped out the algorithm's "heartbeat" to enure precision. I treated the "low" and "high" pointers as dynamic boundaries
 that close in on the target.
 
