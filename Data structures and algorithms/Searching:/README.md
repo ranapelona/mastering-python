@@ -11,7 +11,7 @@ A high _ efficiency search algorithm that halves the search with every repeat of
 Before coding i mapped out the algorithm's "heartbeat" to enure precision. I treated the "low" and "high" pointers as dynamic boundaries
 that close in on the target.
 
-![Binary Search Logic Map](./assets/binary_search_logic_map.jpg)
+![Logic Map](./assets/binary_search_logic_map.jpg)
 
 #### 📝 What i learned
 
