@@ -1,4 +1,4 @@
-# Mastering Python: Data Structures & Algorithms
+# 🐍Mastering Python: Data Structures & Algorithms
 
 This repository is my personal lab for mastering python and computer science fundamentals.
 
